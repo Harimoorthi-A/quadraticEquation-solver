@@ -26,4 +26,5 @@ function reset(){
     valueOfa.value=""
     valueOfb.value=""
     valueOfc.value=""
+    solution.innerHTML=""
 }
